@@ -1,4 +1,4 @@
-export default [
+const todosData = [
     {
         id: 1,
         text: "Take out the trash",
@@ -26,4 +26,4 @@ export default [
     }
 ]
 
- 
+export default todosData
